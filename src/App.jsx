@@ -1,5 +1,5 @@
 import {Button, Dialog, DialogContent, Grid, Typography} from "@mui/material";
-import Signup from "./components/Signup.jsx";
+import Signup from "./components/signup/Signup.jsx";
 import {useState} from "react";
 
 function App() {
